@@ -34,5 +34,6 @@ I'm a Computer Science Engineering student at INSAT passionate about data and it
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tasnim-dridi/)
 - Email: dridi.tasniiim@gmail.com
+- Portfolio: [Website](https://portfolio-tasnim-dridi.vercel.app/)
 
 Feel free to connect with me, and let's explore the exciting world of data together! 🚀
